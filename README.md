@@ -14,3 +14,6 @@
 |     npm install react-dom@xx.x.x  | instala a versão especifica do React DOM    |
 |     npm install @types/react@xx.x.x  | instala as tipagens compatíveis    |
 |     npm install @types/react-dom@xx.x.x  | instala as tipagens compatíveis do React DOM    |
+|     npx npm-check-updates -u npm install  | atualiza todas as dependências para suas versões mais recentes, incluindo mudanças de versão principal   |
+|     npm update --force  | Forçar atualização ignorando conflitos   |
+|     npm install --legacy-peer-deps  | se houver conflitos de peerDependencies  |
