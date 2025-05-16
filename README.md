@@ -17,3 +17,4 @@
 |     npx npm-check-updates -u npm install  | atualiza todas as dependências para suas versões mais recentes, incluindo mudanças de versão principal   |
 |     npm update --force  | Forçar atualização ignorando conflitos   |
 |     npm install --legacy-peer-deps  | se houver conflitos de peerDependencies  |
+|    ncu -u  |  Atualize todas as dependências no package.json para a versão mais recente  |
