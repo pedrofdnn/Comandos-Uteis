@@ -9,3 +9,5 @@
 |     npm install @types/react-dom@latest | Instala a versão mais recente dos tipos do React DOM para TypeScript.    |
 |     npm install globals@latest | Atualiza o pacote globals, que contém variáveis globais úteis para desenvolvimento.    |
 |     npm install @types/react@latest | Instala a versão mais recente dos tipos do React para TypeScript.    |
+|     npm uninstall react react-dom | Desinstalar a versão atual do React    |
+|     npm install react@18.3.1 react-dom@xx.x.x  | instale a versão especifica do React e React DOM    |
